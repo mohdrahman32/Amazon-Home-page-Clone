@@ -1,2 +1,5 @@
 # Amazon-Home-page-Clone
-This is a cloned home page of amazon made using html &amp; css.
+This is a cloned home page of amazon made using html &amp; css. 
+<br>
+Author- Mohammed Abdul Rahman
+
